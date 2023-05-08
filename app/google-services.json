@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "933919010782",
+    "project_id": "hey-u-71403",
+    "storage_bucket": "hey-u-71403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933919010782:android:e3c818eda0d04915bd374f",
+        "android_client_info": {
+          "package_name": "com.example.heyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933919010782-h26rqrctsp80vd23ffgsvdlcem71v3t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RRYUHdVoKrPn2SBWES9pYpoyqE4Wts8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933919010782-h26rqrctsp80vd23ffgsvdlcem71v3t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933919010782:android:c0f7c4cee3613c2dbd374f",
+        "android_client_info": {
+          "package_name": "com.naman.heyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933919010782-h26rqrctsp80vd23ffgsvdlcem71v3t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RRYUHdVoKrPn2SBWES9pYpoyqE4Wts8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933919010782-h26rqrctsp80vd23ffgsvdlcem71v3t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
